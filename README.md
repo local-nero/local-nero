@@ -129,12 +129,6 @@ Outside of programming, I'm always experimenting with new ideas and turning them
 />
 
 <br>
-
-<img
-  src="https://github-profile-trophy.vercel.app/?username=local-nero&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=4"
-  alt="GitHub trophies"
-/>
-
 </div>
 
 ---
