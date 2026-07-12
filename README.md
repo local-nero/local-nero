@@ -72,11 +72,12 @@ Outside of programming, I'm always experimenting with new ideas and turning them
 
 <p>
 
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Geode](https://img.shields.io/badge/Geode-6E56CF?style=for-the-badge&logo=geode)
-![Roblox Studio](https://img.shields.io/badge/Roblox_Studio-00A2FF?style=for-the-badge&logo=robloxstudio&logoColor=white)
+![Windows](https://img.shields.io/badge/WINDOWS-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub](https://shields.io)
+![Geode](https://shields.io)
+![Roblox Studio](https://img.shields.io/badge/ROBLOX_STUDIO-00A2FF?style=for-the-badge&logo=robloxstudio&logoColor=white)
+
 
 </p>
 
