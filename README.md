@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.png" width="100%" alt="Aris Banner">
+</p>
+
 <div align="center">
 
 # Aris
