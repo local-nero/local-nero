@@ -101,20 +101,41 @@ Outside of programming, I'm always experimenting with new ideas and turning them
 
 <div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=local-nero&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=local-nero&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800" height="165">
-</p>
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=local-nero&theme=github_dark"
+  alt="GitHub profile summary"
+  width="100%"
+/>
 
-<p align="center">
+<br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=local-nero&theme=discord&no-frame=true&column=4"/>
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=local-nero&theme=github_dark"
+  alt="Repositories per language"
+  height="165"
+/>
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=local-nero&theme=github_dark"
+  alt="GitHub statistics"
+  height="165"
+/>
 
-</p>
+<br>
+
+<img
+  src="https://streak-stats.demolab.com?user=local-nero&theme=github-dark&hide_border=true"
+  alt="GitHub streak"
+  width="70%"
+/>
+
+<br>
+
+<img
+  src="https://github-profile-trophy.vercel.app/?username=local-nero&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=4"
+  alt="GitHub trophies"
+/>
 
 </div>
-
----
 
 ---
 
