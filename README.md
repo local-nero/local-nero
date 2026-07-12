@@ -1,6 +1,9 @@
 <div align="center">
 
 # Aris
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&center=true&vCenter=true&width=850&color=58A6FF&lines=Game+Developer;Full-Stack+Developer;Geometry+Dash+Mod+Developer;Roblox+Creator;Always+Building+Something+New."/>
+</p>
 
 ### Game Developer • Full-Stack Developer • Mod Developer
 
@@ -12,6 +15,12 @@ Building games, tools and experiences.
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/local-nero)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Q5kYgSNkFj)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dunereal.business@gmail.com)
+<p align="center">
+
+![](https://komarev.com/ghpvc/?username=local-nero&style=for-the-badge&color=blue)
+
+</p>
+
 
 </div>
 
@@ -19,9 +28,11 @@ Building games, tools and experiences.
 
 # 👋 About Me
 
-I'm a **Brazilian developer** passionate about creating games, developer tools, and modern web applications.
+I'm a **Brazilian game and software developer** passionate about building games, developer tools, and modern web applications.
 
-My main focus is **Geometry Dash**, **Roblox**, and building software that makes communities better.
+I primarily work with **Geometry Dash**, **Roblox**, and full-stack development, creating everything from mods and launchers to websites, APIs, and Discord bots.
+
+Outside of programming, I'm always experimenting with new ideas and turning them into real projects.
 
 - 🎮 Developing games and experiences
 - 🛠️ Creating mods, launchers and desktop applications
@@ -53,7 +64,19 @@ My main focus is **Geometry Dash**, **Roblox**, and building software that makes
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</p>
+  
+# ⚙️ Development Environment
+
+<p>
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Geode](https://img.shields.io/badge/Geode-6E56CF?style=for-the-badge)
+![Roblox Studio](https://img.shields.io/badge/Roblox_Studio-00A2FF?style=for-the-badge&logo=robloxstudio&logoColor=white)
 
 </p>
 
@@ -69,36 +92,33 @@ My main focus is **Geometry Dash**, **Roblox**, and building software that makes
 
 ---
 
-# 🎯 Currently Working On
-
-🟢 Platinum GDPS
-
-🟢 Platinum DL
-
-🟢 Replay Bot
-
-🔵 Filter+
-
-🟡 BnuuyBot
-
----
-
 # 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=local-nero&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=local-nero&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=local-nero&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800" height="165">
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=local-nero&layout=compact&theme=github_dark&hide_border=true"/>
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=local-nero&theme=discord&no-frame=true&column=4"/>
+
+</p>
 
 </div>
 
 ---
 
+---
+
 <div align="center">
 
-### Thanks for visiting!
+### Thanks for stopping by! 👋
 
-*"Code. Create. Improve."*
+> *"Building things people enjoy using."*
+
+⭐ If you like one of my projects, consider leaving a star.
 
 </div>
