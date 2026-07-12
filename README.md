@@ -41,7 +41,7 @@ I'm a game developer primarily focused on **Roblox** and **Geometry Dash**. I al
 ## 🛠️ Tools & Frameworks
 
 ![Roblox Studio](https://img.shields.io/badge/Roblox_Studio-00A2FF?style=flat-square&logo=robloxstudio&logoColor=white)
-![Geode](https://img.shields.io/badge/Geode-6E56CF?style=flat-square)
+![Geode]([https://img.shields.io/badge/Geode-6E56CF?style=flat-square](https://img.shields.io/badge/Geode-6E56CF?style=flat-square&logo=geode&logoColor=white)))
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare_Pages-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
