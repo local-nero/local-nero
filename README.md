@@ -89,9 +89,7 @@ Outside of programming, I'm always experimenting with new ideas and turning them
 
 | Project | Description | Stack | Status |
 |:--|:--|:--|:--:|
-| **Platinum GDPS** | Custom Geometry Dash Private Server with unique gameplay features, events and progression. | `PHP` `C++` `SQLite` | 🟢 Active |
-| **Platinum DL** | Official Demon List featuring profiles, submissions, moderation, rankings and statistics. | `JavaScript` `Cloudflare` `D1` `HTML/CSS` | 🟢 Active |
-| **Replay Bot** | Frame-perfect replay bot for Geometry Dash 1.9 with recording and playback support. | `C++` | 🟢 Active |
+| **Soggybet** | Mamytema Studios' favorite gambling website | `JavaScript` `Cloudflare` `D1` `HTML/CSS` | 🟢 Active |
 | **Filter+** | Advanced Geometry Dash level search powered by Geode. | `C++` `Geode` | 🔵 Beta |
 | **BnuuyBot** | Multipurpose Discord bot developed by **BnuuyWorks**, featuring moderation, utility and automation. | `Node.js` `Discord.js` | 🟡 In Development |
 
