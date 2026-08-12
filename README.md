@@ -101,7 +101,6 @@ I've worked on everything from game mods and tools to full-stack websites with a
 | **💧 Soggybet** | Parody casino where fictional SoggyCoins are gambled for increasingly soggy cats. Features accounts, cloud saves, a server-authoritative economy and multiple games. | `JavaScript` `Cloudflare` `D1` `HTML/CSS` | 🟢 Active |
 | **🤖 Soggybot** | Multipurpose Discord bot with economy, moderation, utility, fun and automation systems. | `Node.js` `Discord.js` | 🟢 Active |
 | **🔎 Filter+** | Advanced Geometry Dash level-search and filtering mod powered by Geode. | `C++` `Geode` | 🔵 Beta |
-| **💿 Platinum DL** | Geometry Dash challenge/list platform with records, profiles, leaderboards, submissions and moderation tooling. | `JavaScript` `Cloudflare` `D1` | 🟢 Active |
 
 ---
 
